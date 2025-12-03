@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41639875635",
+    "project_id": "fir-a797c",
+    "storage_bucket": "fir-a797c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41639875635:android:3016a22ad0cb8460c0bf46",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmXs3brWEbc1fLQjx-GSKt2IRz3VJr-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
